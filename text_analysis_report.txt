@@ -1,0 +1,19 @@
+TEXT ANALYSIS REPORT
+========================================
+Total word count   : 499
+Unique word count  : 325
+Average word length: 6.36
+Longest word       : maintainability
+Most frequent word : data
+
+Top 10 words:
+- data: 10
+- when: 6
+- also: 5
+- code: 5
+- how: 5
+- may: 5
+- assumptions: 4
+- can: 4
+- cases: 4
+- clear: 4
